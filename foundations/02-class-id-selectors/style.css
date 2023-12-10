@@ -8,12 +8,18 @@
     font-size: 36px;
 }
 
+.adjust-font-size {
+    font-size: 24px;
+}
+
 #fourth-element {
     background-color: lightgreen;
     font-weight: bold;
 }
-  
-.odd-numbered.adjust-font-size,
+ 
+
+/* To stop the of font-size duplicate */
+/* .odd-numbered.adjust-font-size,
 #fourth-element {
     font-size: 24px;
-}
+} */
