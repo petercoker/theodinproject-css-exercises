@@ -18,7 +18,7 @@
 }
  
 
-/* To stop the of font-size duplicate */
+/* Another solution to make remove duplicate by using Chaining selectors and grouping selector*/
 /* .odd-numbered.adjust-font-size,
 #fourth-element {
     font-size: 24px;
