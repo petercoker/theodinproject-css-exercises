@@ -1,6 +1,6 @@
 .odd-numbered {
     background-color: rgba(242, 135, 151, 0.846);
-    font-family: Verdana, dejavu-sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #second-element {
@@ -8,12 +8,12 @@
     font-size: 36px;
 }
 
-.odd-numbered.third-element {
-    font-size: 24px;
-}
-
 #fourth-element {
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
+}
+  
+.odd-numbered.adjust-font-size,
+#fourth-element {
+    font-size: 24px;
 }
