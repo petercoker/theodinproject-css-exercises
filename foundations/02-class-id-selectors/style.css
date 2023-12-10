@@ -1,3 +1,9 @@
 .odd-numbered {
-    background-color: lightpink
+    background-color: lightpink;
+    font-family: Verdana, dejavu-sans, sans-serif;
+}
+
+#second-element {
+    color: blue;
+    font-size: 36px;
 }
